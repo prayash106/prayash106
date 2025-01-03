@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1>Hey! 👋</h1>
+
+I'm Prayash Pathak!
+- <i>Currently:</i> PhD Applied Econ Student at University of Minnesota.
 
 <!--
 **prayash106/prayash106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
