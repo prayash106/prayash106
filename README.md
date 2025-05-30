@@ -3,6 +3,9 @@
 I'm Prayash Pathak!
 - <i>Currently:</i> PhD Applied Econ Student at University of Minnesota.
 
+<h1>Contact me</h1>
+patha106@umn.edu
+
 <!--
 **prayash106/prayash106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
